@@ -1,0 +1,7 @@
+[controlplane]
+master
+
+[dataplane]
+workernode01
+workernode02
+workernode03
